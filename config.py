@@ -1,1 +1,0 @@
-SHADOW_LAYERS = 5
